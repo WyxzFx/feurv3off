@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const inlinereply = require('discord-reply');
 const client = new Discord.Client({ intents: [Discord.Intents.FLAGS.GUILDS, Discord.Intents.FLAGS.GUILD_MESSAGES] });
-const token = 'MTAxODUwMjY2NzA2MTk1NjcxOA.G5GDh-.n1LZK9iudQKNgnDPTFYPdtPSIXUx_xGu_KX8zc';
+const token = 'MTAxODUwMjY2NzA2MTk1NjcxOA.G8aIAc.AkJDWsGbqptM_kNbdmfng7wm3ePEfnu5hFIliA';
 
 client.login(process.env.TOKEN);
 
